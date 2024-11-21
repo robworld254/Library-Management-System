@@ -39,7 +39,7 @@ This Library Management System is a C++ console application designed for librari
 - Improved transaction details, including borrow date, expected return date, days overdue, and overdue fees
 
 ## File Structure
-- `library_management_system.cpp`: Main source code file
+- `main.cpp`: Main source code file
 - `books.txt`: Stores book data
 - `members.txt`: Stores member data
 - `transactions.txt`: Stores transaction data
